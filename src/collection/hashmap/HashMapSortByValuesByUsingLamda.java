@@ -1,4 +1,4 @@
-/*
+package collection.hashmap;/*
 HashMap - Sorting By Values
 I have used Comparator as Lambda here in Collections.sort method.
 After Sorting use LinkedHashMap because it preserves insertion order

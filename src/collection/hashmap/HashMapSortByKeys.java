@@ -1,4 +1,4 @@
-/*
+package collection.hashmap;/*
 HashMap - Sorting By Keys
 Simple solution is store Map into TreeMap
  */
